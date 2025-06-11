@@ -1,10 +1,9 @@
 ---
-layout: archive
 title: "CV"
+layout: cv
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+author_profile: yes
+redirect_from: /resume
 ---
 
 {% include base_path %}
