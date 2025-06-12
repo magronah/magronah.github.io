@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Dr. Michael Agronah"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Dr. Michael Agronah"
 description              : &description "personal description"
 url                      : https://magronah.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,13 +23,13 @@ repository               : "magronah/magronah.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dr. Michael Agronah"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Applied Mathematician | Statistician | Data Scientist | Bioinformatician"
+  location         : "Hamilton Ontario"
+  employer         : "McMaster University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "agronahm@mcmaster.ca" 
 
   # Academic websites
   academia         : # URL
