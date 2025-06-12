@@ -14,46 +14,33 @@ Education
 ======
 **PhD in Computational Science and Engineering**  
 *McMaster University, Ontario, Canada*  
-*Interdisciplinary PhD degree program*  
-**Sept. 2020 – May 2025 (expected)**  
-**Thesis Title:** *Statistical Analysis of Microbiome Data*
-
+*Sept. 2020 – May 2025*  
 ---
 
 **Postgraduate Certificate in Education**  
 *University of Sussex, Brighton, UK*  
-*Teacher Training Certification Program*  
-**Sept. 2018 – June 2019**  
-**Project Title:** *Assessment for Learning in Teaching and Learning*
-
+*Sept. 2018 – June 2019*  
 ---
 
 **MSc in Applied and Computational Mathematics**  
 *University of Bergen, Norway*  
-*Master of Science Degree*  
 **Aug. 2015 – June 2017**  
-**Thesis Title:** *Modelling Temporal Scales and Patterns of Population Variability*
 
 ---
 
 **MSc in Mathematical Science**  
 *African Institute for Mathematical Sciences, Ghana*  
-*Master of Science Degree*  
 **Aug. 2014 – June 2015**  
-**Thesis Title:** *Bayesian Analysis of Hemagglutination-Inhibition Data*
-
 ---
 
 **BA in Mathematics and Economics**  
 *University of Ghana*  
-*Bachelor of Arts Degree*  
 **Aug. 2008 – May 2012**  
-**Thesis Title:** *Modelling Infectious Diseases Using Compartmental Models*
-
+<!--
 * PhD in Computational Science and Engineering, 2025
 * MSc. in University of Bergen, 2017
 * MSc. in African Institute for Mathematical Sciences, 2015
-* BA in GitHub, GitHub University, 2012
+* BA in GitHub, GitHub University, 2012 -->
 
 Work experience
 ======
