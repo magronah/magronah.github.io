@@ -1,19 +1,13 @@
 ---
 title: "Undergraduate Teaching"
 collection: teaching
-type: " "
 permalink: /teaching/2025-spring-teaching-2
-venue: " "
-date: 2025-01-01
-location: "Hamilton Ontario, Canada"
 ---
-
-
 
 ## Sessional Instructor  
 **McMaster University, Department of Mathematics and Statistics**  
 *Hamilton, Ontario*  
-**August 2024 – December 2024 (expected)**  
+**August 2024 – December 2024**  
 - Developed course syllabus for MATH 1LS3: Calculus for Life Sciences  
 - Delivered weekly in-person lectures (1-hour lectures, 3 times per week)  
 - Collaborated with 2 other instructors to prepare exercises and examinations  
