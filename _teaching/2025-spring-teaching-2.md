@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience test 2"
+title: "Sessional Instructor"
 collection: teaching
-type: "Workshop"
+type: "Course: MATH 1LS3-Calculus for Life Sciences"
 permalink: /teaching/2025-spring-teaching-2
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "McMaster University, Department of Mathematics and Statistics"
+date: 2025-01-01 August 2024 - December 2024
+location: "Hamilton Ontario, Canada"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post. test this 
