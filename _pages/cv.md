@@ -2,6 +2,12 @@
 title: "CV"
 layout: cv
 permalink: /cv/
+author_profile: true
+redirect_from: /resume
+
+title: "CV"
+layout: cv
+permalink: /cv/
 author_profile: yes
 redirect_from: /resume
 ---
