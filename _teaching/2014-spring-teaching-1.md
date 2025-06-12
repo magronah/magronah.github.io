@@ -9,39 +9,39 @@ location: "City, Country"
 ---
 
 ---
-## Teacher of Mathematics  
-**St. Paul’s Catholic College**  
-*Burgess Hill, UK*  
-**September 2019 – August 2020**  
-- Taught Math to grades 6–10 and A-Level students  
-- Mentored students in competitions and projects  
-- Set assignments, tests, and exams  
-- Provided detailed performance feedback to parents and students  
 
+## Teaching Roles
+
+* **Teacher of Mathematics** (*September 2019 – August 2020*)  
+  **Description:** Taught mathematics to grades 6–10 and A-Level students 
+  *St. Paul’s Catholic College, Burgess Hill, UK*  
+  
+
+* **Teacher of Mathematics** (*September 2019 – August 2020*)  
+  **Description:** Taught mathematics to grades 6–10  
+  *Varndean High School, Brighton, UK*  
+
+* **Teacher of Mathematics** (*May 2018 – July 2018*)  
+  **Description:** Taught mathematics to grades 6–10 
+  *Patcham High School, Brighton, UK*  
+  
+* **Teacher of Mathematics** (*May 2018 – July 2018*)  
+  **Description:** Taught mathematics to grades 6–10 
+  *Patcham High School, Brighton, UK*  
+ 
+* **Teacher of Mathematics** (*January 2018 – May 2018*)  
+  **Description:** Taught mathematics to grades 6–10 
+  *Ark Alexandra Academy, Hastings, UK*  
+  
 ---
 
-## Teacher of Mathematics  
-**Patcham High School**  
-*Brighton, UK*  
-**May 2018 – July 2018**  
-- Taught Math to grades 6–10  
-- Designed and marked assessments  
-- Provided performance reports and student feedback  
+## Teaching Responsibilities
 
----
+- Taught Mathematics to students in grades 6–10  
+- Designed, set, and marked assignments, tests, and exams  
+- Provided detailed performance feedback to students and parents  
+- Prepared performance reports and progress updates  
+- Mentored students in mathematics competitions and academic projects
+ 
 
-## Teacher of Mathematics  
-**Ark William Parker Academy**  
-*Hastings, UK*  
-**January 2018 – May 2018**  
-- Taught Math to grades 6–10  
-- Designed assessments and provided performance feedback  
 
----
-
-#### Grade 4 Class Teacher  
-**Calvary Academy Primary and High School**  
-*Accra, Ghana*  
-**August 2007 – July 2008**  
-- Served as homeroom teacher for Grade 4  
-- Taught religious studies in the high school  

@@ -47,7 +47,7 @@ location: "Hamilton Ontario, Canada"
 ## Teaching Responsibilities
 
 ### Course Design & Coordination
-- Developed course syllabi for **MATH 1F03: Introduction to Calculus and Analytic Geometry** and **MATH 1LS3: Calculus for Life Sciences**
+- Developed course syllabi for courses taught
 - Created marking schemes for assignments, tests, and final grades
 - Collaborated with fellow instructors to prepare exercises and examinations
 - Supervised up to 5 teaching assistants
