@@ -3,11 +3,12 @@ title: "Undergraduate Teaching"
 collection: teaching
 type: "This session contains a list of all undergraduate teaching experiences and courses taught course"
 permalink: /teaching/2025-spring-teaching-2
-venue: "University 1, Department"
+venue: " "
 date: 2025-01-01
 location: "Hamilton Ontario, Canada"
 ---
 
+counrses
 
 
 
