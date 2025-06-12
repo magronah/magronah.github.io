@@ -43,6 +43,3 @@ location: "City, Country"
 - Provided detailed performance feedback to students and parents  
 - Prepared performance reports and progress updates  
 - Mentored students in mathematics competitions and academic projects
- 
-
-
