@@ -8,7 +8,7 @@ date: 2025-01-01
 location: "Hamilton Ontario, Canada"
 ---
 
-" "
+
 
 
 ### Sessional Instructor  
