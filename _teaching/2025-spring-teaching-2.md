@@ -14,22 +14,42 @@ location: "Hamilton Ontario, Canada"
 
 * **Sessional Instructor** (*August 2024 – December 2024*)  
   **Course:** MATH 1LS3: Calculus for Life Sciences  
-  *McMaster University, Department of Mathematics and Statistics,Hamilton,   Ontario*  
+  *McMaster University, Department of Mathematics and Statistics, Hamilton,   Ontario*  
   
+* **Sessional Instructor** (*May 2024 – June 2024*)   
+  **Course:** MATH 1F03: Introduction to Calculus and Analytic Geometry  
+  *McMaster University, Department of Mathematics and Statistics, Hamilton,   Ontario*  
+  
+* **Teaching Assistant** (*January 2021 – March 2024*)   
+  **Courses:**  First and Third year undergrate Mathematics course 
+  *McMaster University, Department of Mathematics and Statistics, Hamilton,   Ontario*  
+  
+* **Sessional Instructor** (*May 2023 – June 2023*)   
+  **Course:** Math 1B03 – Linear Algebra I  
+  *McMaster University, Department of Mathematics and Statistics, Hamilton,   Ontario*  
+    
+* **Sessional Instructor (Spring and Fall Terms)** (*May 2022 – December 2022*)   
+  **Course:** MATH 1F03: Introduction to Calculus and Analytic Geometry  
+  *McMaster University, Department of Mathematics and Statistics, Hamilton,   Ontario*  
+      
 
-* **Sessional Instructor** (*May 2024 – June 2024*) 
-  Course: MATH 1F03: Introduction to Calculus and Analytic Geometry  
+* **Sessional Instructor** (*January 2022 – April 2022*)   
+  **Course:** MATH 3P06: Vector Calculus and Differential Geometry    
+  *Brock University, Department of Mathematics and Statistics, St. Catharines, Ontario*  
+      
+## Teaching Responsibilities
 
-  *McMaster University, Department of Mathematics and Statistics**  
-*Hamilton, Ontario*  
 
 
----
 
-## Teaching Assistant  
+
+- Developed syllabus for   
+- Delivered weekly in-person lectures (3-hour lectures, twice weekly)  
+- Set 4 assignments, 2 midterms, and 1 final exam  
+- Provided feedback on assignments and midterms  
+
 **McMaster University, Department of Mathematics and Statistics**  
 *Hamilton, Ontario*  
-**January 2021 – March 2024**  
 - Led weekly tutorials and lab sessions  
 - Delivered 3-hour weekly in-person sessions for MATH 1LS3  
 - Taught Python programming in lab sessions for solving life science problems  
@@ -39,21 +59,9 @@ location: "Hamilton Ontario, Canada"
 
 ---
 
-## Sessional Instructor  
-**McMaster University, Department of Mathematics and Statistics**  
-*Hamilton, Ontario*  
-**May 2023 – June 2023**  
-- Developed syllabus for Math 1B03 – Linear Algebra I  
-- Delivered weekly in-person lectures (3-hour lectures, twice weekly)  
-- Set 4 assignments, 2 midterms, and 1 final exam  
-- Provided feedback on assignments and midterms  
 
 ---
 
-## Sessional Instructor (Spring and Fall Terms)  
-**McMaster University, Department of Mathematics and Statistics**  
-*Hamilton, Ontario*  
-**May 2022 – December 2022**  
 - Developed syllabus for MATH 1F03: Introduction to Calculus and Analytic Geometry  
 - Delivered lectures: 3-hour lectures (twice weekly) in Spring, 1-hour lectures (thrice weekly) in Fall  
 - Set 4 exercises and 1 exam  
@@ -61,15 +69,6 @@ location: "Hamilton Ontario, Canada"
 - Provided feedback on assignments  
 - Supervised 5 teaching assistants  
 
----
-
-## Sessional Instructor  
-**Brock University, Department of Mathematics and Statistics**  
-*St. Catharines, Ontario*  
-**January 2022 – April 2022**  
-- Developed syllabus for MATH 3P06: Vector Calculus and Differential Geometry  
-
----
 
 ## Teaching Resposibilities
 
