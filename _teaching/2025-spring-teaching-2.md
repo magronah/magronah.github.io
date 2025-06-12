@@ -4,13 +4,14 @@ collection: teaching
 type: " "
 permalink: /teaching/2025-spring-teaching-2
 venue: " "
-date: 2025-01-01
+date: "2025-01-01""
 location: "Hamilton Ontario, Canada"
 ---
 
+In this session is a list of my undergraduate teachings
 
 
-## Sessional Instructor  
+### Sessional Instructor  
 **McMaster University, Department of Mathematics and Statistics**  
 *Hamilton, Ontario*  
 **August 2024 – December 2024**  
