@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 122"
+title: "College and High School Teaching"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1

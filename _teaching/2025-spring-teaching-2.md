@@ -1,13 +1,13 @@
 ---
 title: "Undergraduate Teaching"
 collection: teaching
-type: "Course: MATH 1LS3-Calculus for Life Sciences"
+type: " "
 permalink: /teaching/2025-spring-teaching-2
-venue: "McMaster University, Department of Mathematics and Statistics"
+venue: " "
 date: 2025-01-01
 location: "Hamilton Ontario, Canada"
 ---
-mmmmmmmmmmm
+
 
 
 ## Sessional Instructor  
