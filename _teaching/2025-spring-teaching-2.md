@@ -10,18 +10,19 @@ location: "Hamilton Ontario, Canada"
 
 --- 
 
-# Teaching Roles
+## Teaching Roles
 
 * **Sessional Instructor** (*August 2024 – December 2024*)  
   *Course:* MATH 1LS3: Calculus for Life Sciences 
+  
   *McMaster University, Department of Mathematics and Statistics, Hamilton,   Ontario*  
   
 
-* **Sessional Instructor**  
-**McMaster University, Department of Mathematics and Statistics**  
+* **Sessional Instructor** (*May 2024 – June 2024*) 
+  Course: MATH 1F03: Introduction to Calculus and Analytic Geometry  
+
+  *McMaster University, Department of Mathematics and Statistics**  
 *Hamilton, Ontario*  
-**May 2024 – June 2024**  
- Course: MATH 1F03: Introduction to Calculus and Analytic Geometry  
 
 
 ---
