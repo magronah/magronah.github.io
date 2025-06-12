@@ -6,7 +6,6 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is develops a novel method for estimating statistical power for differential abundance studies and investigates whether DA micorbiome studies have suffient power to detect effects'
 date: 2025-10-01
 venue: 'PLOS ONE'
-slidesurl: ' '
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/40198727/'
 citation: ' '
 ---
