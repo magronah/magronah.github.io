@@ -16,8 +16,6 @@ Education
 *McMaster University, Ontario, Canada*  
 *Sept. 2020 – May 2025*  
 
----
-
 **Postgraduate Certificate in Education**  
 *University of Sussex, Brighton, UK*  
 *Sept. 2018 – June 2019* 
