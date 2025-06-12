@@ -29,6 +29,11 @@ location: "City, Country"
   **Description:** Taught mathematics to grades 6–10  
   *Ark Alexandra Academy, Hastings, UK*  
   
+ 
+* **Teacher of Mathematics** (*January 2016 – May 2017*)  
+  **Description:** Taught grade 8 mathematics  (*as private tutor*)   
+  *St Paul's High School, Bergen, Norway*  
+  
 ---
 
 ## Teaching Responsibilities
