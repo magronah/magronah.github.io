@@ -1,5 +1,5 @@
 ---
-title: "Sessional Instructor"
+title: "Undergraduate Teaching"
 collection: teaching
 type: "Course: MATH 1LS3-Calculus for Life Sciences"
 permalink: /teaching/2025-spring-teaching-2
@@ -7,10 +7,10 @@ venue: "McMaster University, Department of Mathematics and Statistics"
 date: 2025-01-01
 location: "Hamilton Ontario, Canada"
 ---
+mmmmmmmmmmm
 
-### Teaching Experience
 
-#### Sessional Instructor  
+## Sessional Instructor  
 **McMaster University, Department of Mathematics and Statistics**  
 *Hamilton, Ontario*  
 **August 2024 – December 2024 (expected)**  
@@ -22,7 +22,7 @@ location: "Hamilton Ontario, Canada"
 
 ---
 
-#### Sessional Instructor  
+## Sessional Instructor  
 **McMaster University, Department of Mathematics and Statistics**  
 *Hamilton, Ontario*  
 **May 2024 – June 2024**  
@@ -34,7 +34,7 @@ location: "Hamilton Ontario, Canada"
 
 ---
 
-#### Teaching Assistant  
+## Teaching Assistant  
 **McMaster University, Department of Mathematics and Statistics**  
 *Hamilton, Ontario*  
 **January 2021 – March 2024**  
@@ -47,7 +47,7 @@ location: "Hamilton Ontario, Canada"
 
 ---
 
-#### Sessional Instructor  
+## Sessional Instructor  
 **McMaster University, Department of Mathematics and Statistics**  
 *Hamilton, Ontario*  
 **May 2023 – June 2023**  
@@ -58,7 +58,7 @@ location: "Hamilton Ontario, Canada"
 
 ---
 
-#### Sessional Instructor (Spring and Fall Terms)  
+## Sessional Instructor (Spring and Fall Terms)  
 **McMaster University, Department of Mathematics and Statistics**  
 *Hamilton, Ontario*  
 **May 2022 – December 2022**  
@@ -71,7 +71,7 @@ location: "Hamilton Ontario, Canada"
 
 ---
 
-#### Sessional Instructor  
+## Sessional Instructor  
 **Brock University, Department of Mathematics and Statistics**  
 *St. Catharines, Ontario*  
 **January 2022 – April 2022**  
@@ -83,7 +83,7 @@ location: "Hamilton Ontario, Canada"
 
 ---
 
-#### Teacher of Mathematics  
+## Teacher of Mathematics  
 **St. Paul’s Catholic College**  
 *Burgess Hill, UK*  
 **September 2019 – August 2020**  
@@ -94,7 +94,7 @@ location: "Hamilton Ontario, Canada"
 
 ---
 
-#### Teacher of Mathematics  
+## Teacher of Mathematics  
 **Patcham High School**  
 *Brighton, UK*  
 **May 2018 – July 2018**  
@@ -104,7 +104,7 @@ location: "Hamilton Ontario, Canada"
 
 ---
 
-#### Teacher of Mathematics  
+## Teacher of Mathematics  
 **Ark William Parker Academy**  
 *Hastings, UK*  
 **January 2018 – May 2018**  
