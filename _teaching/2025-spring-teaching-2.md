@@ -1,10 +1,10 @@
 ---
 title: "Undergraduate Teaching"
 collection: teaching
-type: " "
+type: "Undergraduate course"
 permalink: /teaching/2025-spring-teaching-2
-venue: " "
-date: "2025-01-01""
+venue: "University 1, Department"
+date: 2025-01-01
 location: "Hamilton Ontario, Canada"
 ---
 
