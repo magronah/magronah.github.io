@@ -4,8 +4,8 @@ collection: teaching
 type: " "
 permalink: /teaching/2025-spring-teaching-2
 venue: " "
-date: " "
-location: " "
+date: 2025-01-01
+location: "Hamilton Ontario, Canada"
 ---
 
 
