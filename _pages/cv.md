@@ -1,16 +1,18 @@
 ---
+layout: archive
 title: "CV"
-layout: cv
 permalink: /cv/
 author_profile: true
-redirect_from: /resume
+redirect_from:
+  - /resume
 ---
+
 
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Computational McMaster University, 2025
+* PhD in Computational Science and Engineering, 2025
 * MSc. in University of Bergen, 2017
 * MSc. in African Institute for Mathematical Sciences, 2015
 * BA in GitHub, GitHub University, 2012
