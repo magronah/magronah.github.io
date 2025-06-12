@@ -15,7 +15,7 @@ Education
 * **PhD in Computational Science and Engineering**  
    *McMaster University, Ontario, Canada*  
    *Sept. 2020 – May 2025*  
-* Postgraduate Certificate in Education 
+* **Postgraduate Certificate in Education** 
   *University of Sussex, Brighton, UK*  
   *Sept. 2018 – June 2019* 
 *  **MSc in Applied and Computational Mathematics**  
@@ -28,9 +28,13 @@ Education
   *University of Ghana*  
   *Aug. 2008 – May 2012*  
 
-
 Work experience
 ======
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
@@ -66,12 +70,7 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
