@@ -1,7 +1,7 @@
 ---
 title: "Undergraduate Teaching"
 collection: teaching
-type: "This session contains a list of all undergraduate teaching experiences and courses taught course"
+type: "This session contains a list of all undergraduate teaching experiences and courses taught"
 permalink: /teaching/2025-spring-teaching-2
 venue: " "
 date: 2025-01-01
