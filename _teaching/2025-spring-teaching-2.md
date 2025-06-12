@@ -1,8 +1,14 @@
 ---
 title: "Undergraduate Teaching"
 collection: teaching
+type: " "
 permalink: /teaching/2025-spring-teaching-2
+venue: " "
+date: " "
+location: ""
 ---
+
+
 
 ## Sessional Instructor  
 **McMaster University, Department of Mathematics and Statistics**  
