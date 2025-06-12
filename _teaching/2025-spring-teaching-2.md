@@ -14,7 +14,6 @@ location: "Hamilton Ontario, Canada"
 
 * **Sessional Instructor** (*August 2024 – December 2024*)  
   *Course:* MATH 1LS3: Calculus for Life Sciences 
-  
   *McMaster University, Department of Mathematics and Statistics, Hamilton,   Ontario*  
   
 
