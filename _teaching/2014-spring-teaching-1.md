@@ -17,16 +17,12 @@ location: "City, Country"
   *St. Paul’s Catholic College, Burgess Hill, UK*  
   
 
-* **Teacher of Mathematics** (*September 2019 – August 2020*)  
+* **Teacher of Mathematics** (*September 2018 – August 2019*)  
   **Description:** Taught mathematics to grades 6–10  
   *Varndean High School, Brighton, UK*  
 
 * **Teacher of Mathematics** (*May 2018 – July 2018*)  
   **Description:** Taught mathematics to grades 6–10  
-  *Patcham High School, Brighton, UK*  
-  
-* **Teacher of Mathematics** (*May 2018 – July 2018*)  
-  **Description:** Taught mathematics to grades 6–10   
   *Patcham High School, Brighton, UK*  
  
 * **Teacher of Mathematics** (*January 2018 – May 2018*)  
