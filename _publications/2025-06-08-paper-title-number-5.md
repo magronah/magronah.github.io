@@ -1,15 +1,13 @@
 ---
-title: "Too Few or Too Many? Sample Size Estimation for Differential Abundance Studies"
+title: "Paper Title Number 5, with math $$E=mc^2$$"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: ''
-date: 2025-10-01
-venue: 'Manuscript'
-paperurl: 'https://drive.google.com/file/d/1y-OweLWL0J60SiBfB8ZeOCNHjcyuGugr/view?usp=sharing'
-citation: ''
+excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+date: 2024-02-17
+venue: 'GitHub Journal of Bugs'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-## Abstract
-Determining an appropriate sample size for a study is a crucial step in planning scientific research. Appropriate sample sizes avoid both inflated and inadequate sample sizes. Collecting too many samples wastes resources, time and effort of human subjects, and lives of experimental animals. Collecting too few samples, a much more common problem, wastes even more resources through the inability to detect biologically meaningful differences and encourages questionable research practices like p-hacking. Microbiome studies are particularly challenged by sample size, particularly in studies of human subjects or expensive animal models. In practice, the statistical power of taxa within a differential abundance study is influenced by the effect size (fold change), mean abundance of individual taxa and the number of samples. We present a novel approach for sample size calculation for differential abundance studies as a function of effect size, mean abundance and statistical power. We applied our model for sample size calculation using estimates of mean abundance and fold change of taxa obtained from real microbiome data. Our results showed that differential abundance microbiome studies require larger sample sizes than are currently prevalent in the literature to achieve adequate statistical power. Our framework will help researchers make informed decisions about appropriate sample sizes.
-
+Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
