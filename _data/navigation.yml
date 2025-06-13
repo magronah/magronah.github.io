@@ -29,8 +29,14 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Research interests"
-    url: /research_interest/
+  #- title: "Research interests"
+   # url: /research_interest/
     
-   - title: "Service and Organization" 
-     url: /service_organization/
+  #- title: "Service and Organization" 
+   # url: /service_organization/
+     
+   
+  #- title: "Outreach activities" 
+  #   url: /outreach/
+     
+     
