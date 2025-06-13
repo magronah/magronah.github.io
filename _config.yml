@@ -80,8 +80,8 @@ author:
 publication_category:
   books:
     title: 'Books'
- # manuscripts:
-   # title: 'Journa Articles'    
+  manuscripts:
+    title: 'Journa Articles'    
   #conferences:
   #  title: ' ' #Conference Papers
 
