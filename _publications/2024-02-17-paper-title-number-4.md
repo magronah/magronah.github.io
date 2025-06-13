@@ -2,7 +2,7 @@
 title: "Beyond Independence: Joint Modeling of Microbiome Taxa with Reduced-Rank Correlation Structures"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ' '
 date: 2025-10-01
 venue: 'Manuscript'
