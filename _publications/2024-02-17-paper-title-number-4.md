@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2013-02-17-paper-title-number-4
 excerpt: ''
 date: 2025-10-01
-venue: 'Manuscript'
+venue: 'Forthcoming paper currently a manuscript'
 paperurl: 'https://drive.google.com/file/d/1y-OweLWL0J60SiBfB8ZeOCNHjcyuGugr/view?usp=sharing'
 citation: ' '
 ---

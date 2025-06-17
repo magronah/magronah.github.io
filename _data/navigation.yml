@@ -20,7 +20,7 @@ main:
   - title: "Software Development"
     url: /portfolio/
         
-  - title: "Service and organization" #"Service and organization" #Blog Posts"
+  - title: "Service and organization/Outreach" #"Service and organization" #Blog Posts"
     url: /year-archive/
     
   - title: "CV"
@@ -32,10 +32,12 @@ main:
   - title: "Research"
     url: /research_interest/
     
-  #- title: "Service and Organization" 
-   # url: /service_organization/
+  - title: "Service and Organization" 
+    url: /service_organization/
      
-   
+  - title: "Hobbies" 
+    url: /service_organization/
+    
   #- title: "Outreach activities" 
   #   url: /outreach/
      
