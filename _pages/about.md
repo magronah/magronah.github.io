@@ -7,15 +7,17 @@ redirect_from:
   - /about.html
   
 ---
-### Summary
 
+Summary
+======
 I am a trained and passionate teacher of Mathematics with 12 years of teaching experience in the primary, secondary, and tertiary levels of education across diverse countries and cultures in Ghana, Norway, the UK and in Canada.
 
 Research Interest
 ======
 My research work cut across the fields in Computer Science, Biology, Mathematics and Applied Mathematics and Statistics. I have recently develop a love for research work in the area of microbiome studies Applied Statistics and 
 
-
+Education
+======
 * **PhD in Computational Science and Engineering**  
    *McMaster University, Ontario, Canada*  
    *Sept. 2020 – May 2025*  
