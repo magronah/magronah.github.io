@@ -2,7 +2,7 @@
 title: "Too Few or Too Many? Sample Size Estimation for Differential Abundance Studies"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2013-02-17-paper-title-number-4
 excerpt: ''
 date: 2025-10-01
 venue: 'PLOS ONE'
