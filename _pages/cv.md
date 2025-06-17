@@ -61,6 +61,15 @@ Talks
   
 Service and leadership
 ======
+* **Interpersonal Relationship:** Strong interpersonal relationship skills gained through teaching experiences across diverse levels of education and diverse cultures
+
+* **Reflective ability:** Strong ability to reflective and improve on my own practices gained through frequent evaluation of teaching practice
+
+* **Teamworking skills:** Strong team working skills from collaboration with co-workers and participation in group projects
+
+* **Listening:** Strong listening ability gained through student interactions
+and students in mentorship roles
+
 
 Service and Organisation
 ======
