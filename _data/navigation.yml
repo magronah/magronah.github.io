@@ -17,10 +17,10 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Software Development"
+  - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Service and organization/Outreach" #"Service and organization" #Blog Posts"
+  - title: "Blog Posts" #"Service and organization" #Blog Posts"
     url: /year-archive/
     
   - title: "CV"
@@ -29,15 +29,13 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Research"
-    url: /research_interest/
+  #- title: "Research interests"
+   # url: /research_interest/
     
-  - title: "Service and Organization" 
-    url: /service_organization/
+  #- title: "Service and Organization" 
+   # url: /service_organization/
      
-  - title: "Hobbies" 
-    url: /service_organization/
-    
+   
   #- title: "Outreach activities" 
   #   url: /outreach/
      
