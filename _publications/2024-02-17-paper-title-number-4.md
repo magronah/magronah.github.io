@@ -1,8 +1,8 @@
 ---
-title: "Investigating statistical power of differential abundance studies"
+title: "Too Few or Too Many? Sample Size Estimation for Differential Abundance Studies"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
 date: 2025-10-01
 venue: 'PLOS ONE'
