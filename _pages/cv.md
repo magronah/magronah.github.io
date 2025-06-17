@@ -28,7 +28,15 @@ Education
   *University of Ghana*  
   *Aug. 2008 – May 2012*  
 
-Work experience
+Service and Organisation
+======
+
+* **Seminar Organising Team:** 
+  *August 2021- May 2024:* I was a member of a biweekly seminar organizing team for the School of of Computational Science and Engineering, McMaster University. Duties involve shortlisting proposed speakers, sending out invitations to speakers, updating department’s website with seminar information, arranging logistics and coordinating seminar meetings.
+
+* **Statistical Society of Canada:** 
+  *June 2023-present:*  I am a member of the Statistical Society of Canada.
+
 ======
 
 Teaching
@@ -61,4 +69,5 @@ Talks
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+*
+
