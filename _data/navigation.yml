@@ -11,7 +11,10 @@ main:
 
   - title: "Teaching"
     url: /teaching/ 
-    
+  
+  - title: "Research interests"
+    url: /research_interest/
+     
   - title: "Publications"
     url: /publications/
 
@@ -30,8 +33,6 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  #- title: "Research interests"
-   # url: /research_interest/
     
   #- title: "Service and Organization" 
    # url: /service_organization/
