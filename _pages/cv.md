@@ -39,7 +39,8 @@ Service and leadership ======
 * **Teamworking skills:** Strong team working skills from collaboration with co-workers and participation in group projects
 * **Listening:** Strong listening ability gained through student interactions
 and students in mentorship roles
-Service and Organisation ======
+Service and Organisation 
+======
 * **Seminar Organising Team:**
   *August 2021- May 2024:* I was a member of a biweekly seminar organizing team for the School of of Computational Science and Engineering, McMaster University. Duties involve shortlisting proposed speakers, sending out invitations to speakers, updating department’s website with seminar information, arranging logistics and coordinating seminar meetings.
 * **Statistical Society of Canada:**
