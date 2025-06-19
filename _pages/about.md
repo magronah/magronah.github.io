@@ -8,7 +8,7 @@ redirect_from:
   
 ---
 
-I am a dedicated and trained Mathematics educator with extensive teaching experience across primary, secondary, and tertiary levels in diverse cultural and educational settings, including Ghana, Norway, the UK, and Canada. My background in applied mathematics, statistics, and computational programming allows me to effectively communicate complex concepts through relatable, real-life illustrations.
+I am a dedicated researcher and a trained educator with extensive teaching experience across primary, secondary, and tertiary levels in diverse cultural and educational settings, including Ghana, Norway, the UK, and Canada. My background in applied mathematics, statistics, and computational programming allows me to effectively communicate complex concepts through relatable, real-life illustrations.
 
 
 Research Interest
