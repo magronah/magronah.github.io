@@ -8,11 +8,13 @@ redirect_from:
   
 ---
 
-I am a trained and passionate teacher of Mathematics with 12 years of teaching experience in the primary, secondary, and tertiary levels of education across diverse countries and cultures in Ghana, Norway, the UK and in Canada.
+I am a dedicated and trained Mathematics educator with extensive teaching experience across primary, secondary, and tertiary levels in diverse cultural and educational settings, including Ghana, Norway, the UK, and Canada. My background in applied mathematics, statistics, and computational programming allows me to effectively communicate complex concepts through relatable, real-life illustrations.
+
 
 Research Interest
 ======
-My research work cut across the fields in Computer Science, Biology, Mathematics and Applied Mathematics and Statistics. I have recently develop a love for research work in the area of microbiome studies Applied Statistics and 
+My research focuses on applied and computational statistics, particularly in modeling high-dimensional biological data. Most recently, I have been developing statistical models and software tools to advance research in the human microbiome.
+
 
 Education
 ======
