@@ -81,7 +81,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-   title: 'Journal Articles/Manuscripts'    
+   title: 'Journal Articles'    
   #conferences:
   #  title: ' ' #Conference Papers
 
