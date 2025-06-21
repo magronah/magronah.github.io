@@ -7,7 +7,7 @@ excerpt: ' '
 date: 2025-02-17
 venue: 'Forthcoming paper currently a manuscript'
 paperurl: 'https://drive.google.com/file/d/11t-2Tn-PpUDdEP4nJbXW3GSRvnBV4Fb_/view?usp=sharing'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: ' '
 ---
 
 # Abstract 
