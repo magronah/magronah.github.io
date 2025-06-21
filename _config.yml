@@ -34,7 +34,7 @@ author:
   # Academic websites
   #academia         : # URL
   #arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0007-2655-4094"
   #semantic         : # URL
@@ -206,7 +206,7 @@ kramdown:
   input: GFM
   hard_wrap: false
   auto_ids: true
-  footnote_nr: 1
+  #footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
