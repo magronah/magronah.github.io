@@ -9,7 +9,7 @@ location: City, Country
 ---
 
 ### Modelling Temporal Scales and Patterns of Population Variability
-*Summary*
+*Summary* 
 The research focused on developing a stage-structured population dynamic models for studying the dynamic fish species. The model was applied to study the population dynamics of mature and immature Barents Sea capelin. The optimal parameters of the model were estimated numerically using an optimisation algorithm involving spline interpolation and minimisation of error function subject to parameters constraints. The Runke Kutta numerical method for solving systems of ordinary differential equations and spline interpolation were used to solve the system and for estimating
 model predictions.
 
