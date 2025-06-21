@@ -1,12 +1,13 @@
 ---
-title: "College and High School Teaching"
-collection: research
-type: "This session contains a list of all college and high school teaching experiences"
-permalink: /research/research
-venue: "."
-date: 2014-01-01
-location: "City, Country"
+permalink: /markdown/
+title: "Markdown"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
 ---
+
+{% include toc %}
 
 ## Locations of key files/directories
 
