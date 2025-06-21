@@ -5,7 +5,7 @@ collection: research
 date: "2014-01-01"
 permalink: /research/past_research/
 venue: ' '
-type: This session contains a list of all college and high school teaching experiences
+type: This session contains a list of current research
 location: City, Country
 classes: wide
 ---

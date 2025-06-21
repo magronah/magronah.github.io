@@ -2,10 +2,10 @@
 layout: single
 title: "Current Research"
 collection: research
-date: "2014-01-01"
+<!--date: "2014-01-01" -->
 permalink: /research/current_research/
 venue: ' '
-type: This session contains a list of all college and high school teaching experiences
+type: This session contains a list of current research
 location: City, Country
 classes: wide
 ---
