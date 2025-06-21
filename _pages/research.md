@@ -1,11 +1,15 @@
 ---
-title: "College and High School Teaching"
-collection: research
-date: "2014-01-01"
-permalink: /research/research
-venue: ' '
-type: This session contains a list of all college and high school teaching experiences
-location: City, Country
+layout: page
+title: Research
+permalink: /research/
 ---
 
-## Locations of key files/directories
+## Teaching and Research Experience
+
+{% for post in site.research %}
+### [{{ post.title }}]({{ post.url }})
+<p>
+  {{ post.type }} <i>{{ post.venue }}</i><br>
+  {{ post.date | date: "%Y" }} - {{ post.location }}
+</p>
+{% endfor %}
