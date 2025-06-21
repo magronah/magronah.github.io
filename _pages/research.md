@@ -5,8 +5,6 @@ permalink: /research/
 classes: wide
 ---
 
-## Teaching and Research Experience
-
 {% for post in site.research %}
 ### [{{ post.title }}]({{ post.url }})
 <p>
