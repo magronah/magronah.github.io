@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: single
 title: Research
 permalink: /research/
+classes: wide
 ---
 
 ## Teaching and Research Experience
