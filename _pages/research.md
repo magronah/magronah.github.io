@@ -9,6 +9,6 @@ classes: wide
 ### [{{ post.title }}]({{ post.url }})
 <p>
   {{ post.type }} <i>{{ post.venue }}</i><br>
-  {{ post.date | date: "%Y" }} - {{ post.location }}
+<!--  {{ post.date | date: "%Y" }} - {{ post.location }} -->
 </p>
 {% endfor %}
