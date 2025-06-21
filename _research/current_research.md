@@ -11,14 +11,15 @@ classes: wide
 ---
 
 
-### Modelling Temporal Scales and Patterns of Population Variability
+### A Reduced Rank Poisson Model for Longitudinal Microbiome Data: Accounting for Taxa Correlations
 
 *Summary* 
 
-The research focused on developing a stage-structured population dynamic models for studying the dynamic fish species. The model was applied to study the population dynamics of mature and immature Barents Sea capelin. The optimal parameters of the model were estimated numerically using an optimisation algorithm involving spline interpolation and minimisation of error function subject to parameters constraints. The Runke Kutta numerical method for solving systems of ordinary differential equations and spline interpolation were used to solve the system and for estimating
-model predictions.
+Modelling associations between longitudinal microbiome data and other covariates aids in understanding how microbial communities change over time and how these changes differ between treatment groups (eg. control vs. treatment). Such longitudinal microbiome analysis also aid in understanding disease progression in patients and microbial responses to dietary interventions, antibiotics, and environmental changes. Just as in a non-longitudinal microbiome study, taxa within
+subjects in a longitudinal design are correlated. Accounting for these correlations may lead to improved precision in effect size estimates. However, modelling these correlations in a longitudinal design is more challenging because taxa can co-vary in different ways over time. Similar to a non-longitudinal design, modeling correlations in longitudinal design also require estimation of thousands or hundreds of parameter estimates for microbiome data, which is computationally impossible to fit. Due to this complexity, most existing models analyze individual taxa separately. In this paper, we propose a Longitudinal Reduced Rank Mixed Model (LRRMM), which extends the Reduced Rank Mixed Model proposed in an earlier paper for non-longitudinal designs. LRRMM is designed to analyze associations between microbiome data and covariates by modeling all taxa jointly, while accounting for correlations among taxa within subjects over time. We used the reduced rank functionality available in the glmmTMB package to reduce the number of parameter estimates required for modeling correlations between taxa. We demonstrate that LRRMM provides more precise estimates of effect sizes compared to both the Negative Binomial and Zero-Inflated Negative Binomial mixed models implemented in the NBZIMM R package.
 
-### Bayesian Analysis of Hemagglutination-Inhibition Data
+
+### Beyond Independence: Joint Modeling of Microbiome Taxa with Reduced-Rank Correlation Structures
 
 *Summary*
 
