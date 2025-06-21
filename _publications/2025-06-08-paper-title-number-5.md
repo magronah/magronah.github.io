@@ -11,17 +11,13 @@ citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub J
 ---
 
 # Abstract 
-Modelling associations between longitudinal microbiome data and other covari-
-ates aids in understanding how microbial communities change over time and how
+Modelling associations between longitudinal microbiome data and other covariates aids in understanding how microbial communities change over time and how
 these changes differ between treatment groups (eg. control vs. treatment). Such
 longitudinal microbiome analysis also aid in understanding disease progression in
-patients and microbial responses to dietary interventions, antibiotics, and envi-
-ronmental changes. Just as in a non-longitudinal microbiome study, taxa within
-subjects in a longitudinal design are correlated. Accounting for these correla-
-tions may lead to improved precision in effect size estimates. However, modelling
+patients and microbial responses to dietary interventions, antibiotics, and environmental changes. Just as in a non-longitudinal microbiome study, taxa within
+subjects in a longitudinal design are correlated. Accounting for these correlations may lead to improved precision in effect size estimates. However, modelling
 these correlations in a longitudinal design is more challenging because taxa can
-co-vary in different ways over time. Similar to a non-longitudinal design, mod-
-eling correlations in longitudinal design also require estimation of thousands or
+co-vary in different ways over time. Similar to a non-longitudinal design, modeling correlations in longitudinal design also require estimation of thousands or
 hundreds of parameter estimates for microbiome data, which is computationally
 impossible to fit. Due to this complexity, most existing models analyze individual taxa separately. In this paper, we propose a Longitudinal Reduced Rank
 Mixed Model (LRRMM), which extends the Reduced Rank Mixed Model pro-
