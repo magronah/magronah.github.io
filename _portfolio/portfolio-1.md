@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "power.nb"
+excerpt: "R package underdevelopment for power and sample size calculation for differential abundance microbiome studies <br/><img src='/images/test.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+power.nb is an R package with the following features
+
+- power.nb has two simulators for simulating microbiome data
+
+- A famework for statistical power and sample size calculation for differential abundance microbiome studies
+
+
