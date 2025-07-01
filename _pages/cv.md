@@ -26,6 +26,7 @@ Education
 * **BA in Mathematics and Economics**
   *University of Ghana*
   *Aug. 2008 – May 2012*
+
 Work experience ======
 Teaching <ul>{% for post in site.teaching reversed %} {% include
 archive-single-cv.html %} {% endfor %}</ul>

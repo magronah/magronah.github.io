@@ -21,8 +21,8 @@ main:
   - title: "Talks"
     url: /talks/       
     
-  - title: "Software"
-    url: /portfolio/
+  #- title: "Software"
+  #  url: /portfolio/
         
   #- title: "Service and organization" #"Service and organization" #Blog Posts"
  #   url: /year-archive/
